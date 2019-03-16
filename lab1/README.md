@@ -1,0 +1,1 @@
+In acest laborator am creat o pagina de logare. Codul sursă al programului realizeaza procesul de logare. După efectuarea procesului de logare se va dechide o nouă pagină în care este specificat un id (logat), dacă acest id va fi identificat va fi afișat mesajul cu “Testare cu succes” daca nu, va fi afișat mesajul de eroare.
